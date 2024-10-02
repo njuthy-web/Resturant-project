@@ -1,2 +1,1 @@
-
-https://njuthy-web.github.io/Resturant-project/
+https://github.com/njuthy-web/Resturant-project/deployments/github-pages
